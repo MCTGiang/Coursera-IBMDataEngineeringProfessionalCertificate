@@ -1,13 +1,15 @@
-# Coursera - IBM Data Engineering Professional Certificate
+# Coursera - IBM Data Engineering Professional Certificate - Beginner Level
 This program will teach you the foundational data engineering skills employers are seeking for entry level data engineering roles, including Python, one of the most widely used programming languages. You’ll also master SQL, RDBMS, ETL, Data Warehousing, NoSQL, Big Data, and Spark with hands-on labs and projects.
-## 1.	Course 01 - Introduction to Data Engineering
-### •	Module 01- What is DE?
-#### -	Modern Data Ecosystem and role of DE
-#### -	Responsibilities and skillsets of DE
-•	Module 02 – The DE Ecosystem
--	The Data Ecosystem and Languages for Data Professionals
--	Data Repositories, Data Pipelines and Data Integration Platforms
--	Big Data Platforms
+
+## Professional Certificate - 16 course series
+### 1.	Course 01 - Introduction to Data Engineering
+    •	Module 01- What is DE?
+        -	Modern Data Ecosystem and role of DE
+        -	Responsibilities and skillsets of DE
+    •	Module 02 – The DE Ecosystem
+        -	The Data Ecosystem and Languages for Data Professionals
+        -	Data Repositories, Data Pipelines and Data Integration Platforms
+        -	Big Data Platforms
 •	Module 03 – Data Engineering Life Cycle
 -	Data Platforms, Data Stores, and Security
 -	Data Collection and Data Wrangling
