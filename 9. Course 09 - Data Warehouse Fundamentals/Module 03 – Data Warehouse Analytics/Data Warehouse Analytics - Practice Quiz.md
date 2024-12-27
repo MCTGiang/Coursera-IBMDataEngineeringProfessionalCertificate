@@ -4,7 +4,7 @@
     C. IBM.BIZ/COGNOS_TRIAL 
     D. IBM.COM/TRIAL_COGNOS 
     
-_The correct answer is B. IBM.COM/TRY_COGNOS_
+_The correct answer is A. IBM.BIZ/TRY_COGNOS_
 ### 2. In Cognos Analytics, which are the two main navigational areas of the interface? 
     A. Left pane and top bar 
     B. Menu links and Help pages 
